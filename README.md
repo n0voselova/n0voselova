@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+Welcome to my GitHub! I'm Margarita, merging Data Analysis and Digital Marketing expertise. With experience in luxury sales administration and game marketing, I excel in SQL, Python, Tableau, and Google Analytics. Passionate about decoding data for actionable insights, I explore impactful projects blending analytics with marketing savvy for business growth! Let's dive into the fusion of data analysis and marketing strategies! 🚀
 
 <!--
 **n0voselova/n0voselova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
